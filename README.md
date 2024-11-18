@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hoomaac/hoomaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,cpp,go,unity,godot,bash" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-stats-iota-seven.vercel.app/api?username=hoomaac&show_icons=true&include_orgs=true&theme=noctis_minimus&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER">
+    <img src="https://github-stats-iota-seven.vercel.app/api?username=hoomaac&show_icons=true&include_orgs=true&theme=noctis_minimus&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
+  </a>
+</p>
+    
+<p align="center">
+  <a href="https://github-stats-iota-seven.vercel.app/api/top-langs/?username=hoomaac&layout=compact&exclude_repo=cadmean,album&hide=javascript,html,cmake&include_orgs=true&theme=noctis_minimus&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER">
+<img src="https://github-stats-iota-seven.vercel.app/api/top-langs/?username=hoomaac&layout=compact&exclude_repo=cadmean,album&hide=javascript,html,cmake&include_orgs=true&theme=noctis_minimus&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
+  </a>
+</p>
+
+<p align="center">
+  📫
+  <a href="mailto:hoomaac@gmail.com">
+   hoomaac@gmail.com
+  </a>
+</p>
